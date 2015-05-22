@@ -25,8 +25,8 @@ The Score is determined by the Following
 | 2       | Sum all of the dices with 2's | When one of the dices at least has a 2 e.g (**2**, 5, 6) |
 | 3       | Sum all of the dices with 3's | When one of the dices at least has a 3 e.g (5, **3**, 6) |
 | 4       | Sum all of the dices with 4's | When one of the dices at least has a 4 e.g (1, **4**, 5) |
-| 5       | Sum all of the dices with 5's | When one of the dices at least has a 3 e.g (**5**, 4, 6) |
-| 6       | Sum all of the dices with 6's | When one of the dices at least has a 3 e.g (5, 3, **6**) |
+| 5       | Sum all of the dices with 5's | When one of the dices at least has a 5 e.g (**5**, 4, 6) |
+| 6       | Sum all of the dices with 6's | When one of the dices at least has a 6 e.g (5, 3, **6**) |
 
 
 

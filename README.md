@@ -18,7 +18,7 @@ The Score is determined by the Following
 | Options | Score | When available |
 | ------- | ----- | -------------- |
 | Topo Loco | Automatically Win | When all of the dices are the same e.g (1, 1, 1)
-| Stairs  | Sum of the 3 dices     | When the next dice precedes the other order e.g (1, 2, 3) or (3, 1, 2) etc. |
+| Stairs  | Sum of the 3 dices     | When the next dice precedes the other, not taking the order into consideration e.g (1, 2, 3) or (3, 1, 2) etc. |
 | Jump    | Sum of the 3 dices     | When one of the dices summed by 2 equals another, e.g (**1**, **3**, 6) Jump 1 to 3 |
 | Duque   | Sum of the repeated dices | When there are 2 dices with the same number e.g (**6**, **6**, 1) |
 | 1       | Sum all of the dices with 1's | When one of the dices at least has a 1 e.g (**1**, 4, 5) |

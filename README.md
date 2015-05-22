@@ -11,7 +11,9 @@ Execute the Script and start playing :)
 5. If all 4 rounds pass without Topo Loco, Sum all of the scores, The one with the most points wins.
 
 ### Rules While Adjudicating
-The Score is determined by the Following:
+If you have already adjucated(picked) an option it will not be available again.
+
+The Score is determined by the Following
 
 | Options | Score | When available |
 | ------- | ----- | -------------- |
